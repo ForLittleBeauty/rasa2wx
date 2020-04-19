@@ -6,8 +6,9 @@ weixin directory for wechat backend
 
 ## how to run
 from root directory
-* cd rasa *
-* rasa run *
+* cd rasa 
+* rasa run 
+
 from root director
-* cd weixin *
-* sudo python3 run.py *
+* cd weixin 
+* sudo python3 run.py 
